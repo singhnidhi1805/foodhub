@@ -1,6 +1,0 @@
-/* Example media query in App.css */
-@media (max-width: 768px) {
-  .container {
-    padding: 10px;
-  }
-}
